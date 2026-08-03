@@ -1,0 +1,23 @@
+name: Actualizar lista IPTV
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * *'   # 6:00 CEST verano / 5:00 CET invierno
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generar lista
+        run: bash filtrar.sh
+      - name: Commit si hay cambios
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add mi_lista.m3u8
+          git diff --cached --quiet || git commit -m "update $(date -Is)"
+          git push
