@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+https://d4oe4cnrgi9c9.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur 2 Accesible",Canal Sur 2 Accesible
-https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+https://rtva-channel22.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias
-https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+https://rtva-channel42.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="7TV_Andalucía.TV" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="Andalucía" tvg-name="7TV Andalucía",7TV Andalucía
 https://especial7tv.gestec-video.com/hls/regional.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="Andalucía" tvg-name="7TV Almería",7TV Almería
