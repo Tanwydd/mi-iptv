@@ -89,8 +89,6 @@ https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Málaga",Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/101Almeria/picture?width=200&height=200" group-title="Andalucía" tvg-name="101TV Almería",101TV Almería
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 #EXTINF:-1 tvg-id="101Antequera.TV" tvg-logo="https://graph.facebook.com/101tvAntequera/picture?width=200&height=200" group-title="Andalucía" tvg-name="101TV Antequera",101TV Antequera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dFDfeITvIVgSQQSNlgLw1WJ98Icuw-WlYJXNp31UhoABX3LOrJjXafo6a2H9EfhrA9Ah9e84=s200" group-title="Andalucía" tvg-name="101TV Cádiz",101TV Cádiz
