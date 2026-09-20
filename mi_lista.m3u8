@@ -60,7 +60,7 @@ https://nimble.tuyapro.es/app/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaAlgeciras.TV" tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Onda Algeciras TV",Onda Algeciras TV
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-id="PTV_Malaga.TV" tvg-logo="https://graph.facebook.com/PTVMalaga/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Málaga",PTV Málaga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://streamer.zapitv.com/PTV-malaga/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title="Andalucía" tvg-name="Andalucía Cocina",Andalucía Cocina
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYsl5e6jEIMtXIoTUHvkJqXxDfASrvQP_QFRRww=s200" group-title="Andalucía" tvg-name="Andalucía Turismo",Andalucía Turismo
@@ -108,9 +108,9 @@ https://broadcast1.radioponiente.org/atv/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6SgTMpyVCJlMGBcip6gvloYy2u-BP4vY-H2paJ2zO471owJq_YcgPhUUB0tBaKIKlNUKzeRf=s200" group-title="Andalucía" tvg-name="Canal San Roque",Canal San Roque
 https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PTV_Linares.TV" tvg-logo="https://graph.facebook.com/tvlinares/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Linares",PTV Linares
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://streamer.zapitv.com/ptv-linarez/index.m3u8
 #EXTINF:-1 tvg-id="PTV_Sevilla.TV" tvg-logo="https://graph.facebook.com/SevillaPTV/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Sevilla",PTV Sevilla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8
 #EXTINF:-1 tvg-id="Telemotril.TV" tvg-logo="https://graph.facebook.com/telemotriltv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Telemotril",Telemotril
 https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
 #EXTINF:-1 tvg-id="Torrevision.TV" tvg-logo="https://graph.facebook.com/torremolinostv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Torremolinos TV",Torremolinos TV
@@ -128,9 +128,9 @@ https://9laloma.tv/live.m3u8
 #EXTINF:-1 tvg-id="Mijas340TV.TV" tvg-logo="https://graph.facebook.com/Mijas340TV/picture?width=200&height=200" group-title="Andalucía" tvg-name="Mijas 3.40 TV",Mijas 3.40 TV
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 #EXTINF:-1 tvg-id="PTV_Granada.TV" tvg-logo="https://graph.facebook.com/PTVGranada/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Granada",PTV Granada
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://streamer.zapitv.com/PTV-granada/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCOR/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Córdoba",PTV Córdoba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 #EXTINF:-1 tvg-id="CanalCoin.TV" tvg-logo="https://graph.facebook.com/106272064368271/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Coín",Canal Coín
 https://canalcoin.garjim.es/hls/directo.m3u8
 #EXTINF:-1 tvg-id="DiezTV_Andujar.TV" tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Diez TV Andújar",Diez TV Andújar
@@ -145,6 +145,8 @@ https://streaming.cloud.innovasur.es/mmj/index.m3u8
 https://d16pwlnz9msuji.cloudfront.net/wct-dad9c712-1c61-4a61-aeee-8be9f5c9e6e9/continuous/8fbfd2f5-30c2-4d48-a24e-73f5d35ba491/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Telegranada/picture?width=200&height=200" group-title="Andalucía" tvg-name="TeleGranada",TeleGranada
 https://telegranada.es/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/dQxpHlPEeQ6XTzXJu7eJa36C7nT7TjxecHbznRDwEqWmdV5Upl8VMafZMHhCfToJGcdTcy1_bJA=s200" group-title="Andalucía" tvg-name="Huelva Conecta",Huelva Conecta
+https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBxvKI5aUExkO9mNDloNQ8ADAvcaRNMvPSzD2J81vIdO6oqZ1N7R-yWKK&s=10" group-title="Andalucía" tvg-name="Music TV Granada",Music TV Granada
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200" group-title="Andalucía" tvg-name="Parlamento de Andalucía",Parlamento de Andalucía
